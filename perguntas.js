@@ -1,23 +1,24 @@
-criaCatão(
-    "Categoria",
-    "Pergunta",
-    "Resposta"
+criaCartao(
+    'Categoria',
+    'Pergunta',
+    'Resposta'
 )
 
-criaCatão(
-    "Categoria",
-    "Pergunta",
-    "Resposta"
+criaCartao(
+    'Categoria',
+    'Pergunta',
+    'Resposta'
 )
 
-criaCatão(
-    "Categoria",
-    "Pergunta",
-    "Resposta"
+criaCartao(
+    'Categoria',
+    'Pergunta',
+    'Resposta'
 )
 
-criaCatão(
-    "Categoria",
-    "Pergunta",
-    "Resposta"
+criaCartao(
+    'Categoria',
+    'Pergunta',
+    'Resposta'
 )
+
