@@ -1,24 +1,24 @@
 criaCartao(
-    'Categoria',
-    'Pergunta',
-    'Resposta'
+    'Biologia',
+    'Quantos pares de costelas um ser humano, normalmente, possui?',
+    '12'
 )
 
 criaCartao(
     'Categoria',
-    'Pergunta',
-    'Resposta'
+    'Qual animal produz o som mais alto?',
+    'Baleia Azul'
 )
 
 criaCartao(
     'Categoria',
-    'Pergunta',
-    'Resposta'
+    'Que atleta é o detentor do recorde de medalhas olímpicas?',
+    'Michael Phelps'
 )
 
 criaCartao(
     'Categoria',
-    'Pergunta',
-    'Resposta'
+    'Quem foi o inventor da vacina?',
+    'Edward Jenner'
 )
 
