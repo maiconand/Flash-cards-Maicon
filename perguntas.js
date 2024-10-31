@@ -5,20 +5,20 @@ criaCartao(
 )
 
 criaCartao(
-    'Categoria',
+    'Biologia',
     'Qual animal produz o som mais alto?',
-    'Baleia Azul'
+    'Baleia Azul'   
 )
 
 criaCartao(
-    'Categoria',
+    'História',
     'Que atleta é o detentor do recorde de medalhas olímpicas?',
     'Michael Phelps'
 )
 
 criaCartao(
-    'Categoria',
-    'Quem foi o inventor da vacina?',
-    'Edward Jenner'
+    'História',
+    'Quem inventou a lâmpada?',
+    'Thomas Edison'
 )
 
