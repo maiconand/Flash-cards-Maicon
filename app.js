@@ -1,4 +1,4 @@
-function criaCartao(categoria, perguta, resposta){
+function criaCartao(categoria, pergunta, resposta) {
     let container = document.getElementById('container');
     let cartao = document.createElement('article');
     cartao.className = 'cartao';
@@ -13,18 +13,18 @@ function criaCartao(categoria, perguta, resposta){
                         <p>${resposta}</p>
                     </div>
                 </div>
-                    ` 
-                let respostaEstaVisivel = false;
+                    `
+    let respostaEstaVisivel = false;
 
-                function viraCartao() {
-                    respostaEstaVisivel = ! respostaEstaVisivel;
-                    cartao.classList.toggle('active', respostaEstaVisivel);
-                }
+    function viraCartao() {
+        respostaEstaVisivel = !respostaEstaVisivel;
+        cartao.classList.toggle('active', respostaEstaVisivel);
+    }
 
-                cartao.addEventListener
-
-
+    cartao.addEventListener
 
 
-container.appendChild(cartao);
+
+
+    container.appendChild(cartao);
 }
